@@ -6,7 +6,7 @@
     Link="/Content/Sample Topics/Welcome.htm" />
   <TocEntry
     Title="How to Change the Logo in the Skin"
-    Link="/Content/ChangeLogoInSkin.htm" />
+    Link="/Content/newFolder/ChangeLogoInSkin.htm" />
   <TocEntry
     Title="Editing the Master Page"
     Link="/Content/Sample Topics/EditingMasterPage.htm" />
