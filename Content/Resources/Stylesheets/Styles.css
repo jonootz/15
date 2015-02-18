@@ -1,4 +1,4 @@
-﻿/*<meta />*/
+/*<meta />*/
 
 body
 {
@@ -6,6 +6,7 @@ body
 	font-family: Arial;
 	font-size: .9em;
 	line-height: 1.7em;
+	background-color: #d2691e;
 }
 
 a:link
@@ -152,3 +153,4 @@ td
 	margin: 8px;
 	vertical-align: top;
 }
+
